@@ -1,0 +1,1 @@
+--add-field com.diamond.iain.javagame.entities.Player public static boolean ifMorePoints
